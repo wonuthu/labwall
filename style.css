@@ -1,0 +1,26 @@
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.blue-violet{
+    color: blueviolet;
+}
+.red{
+    color: red;
+}
+.bg{
+    background-color: black;
+    text-align: center;
+}
+.hr{
+    border-color: greenyellow;
+    width: 65px;
+}
+.white{
+    color: white;
+}
